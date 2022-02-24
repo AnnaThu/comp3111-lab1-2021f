@@ -1,2 +1,2 @@
 Anna 12344321
-![](src/screenshotdelete.png)
+![image](Lab1/screenshotdelete.png)
